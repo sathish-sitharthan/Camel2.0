@@ -1,3 +1,0 @@
-container_commands:
-  00fix_permissions_dirs:
-    command: "chmod -R 775 /usr/share/tomcat8"
